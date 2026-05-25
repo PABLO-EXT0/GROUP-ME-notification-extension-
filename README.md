@@ -1,0 +1,1 @@
+GROUP-ME notification extension since the group me notification system is a mess, this extension uses the token created by you to pull notifications from the GROUP ME API every 15 seconds, Token need to be updated every time you change your account password. Enjoy 
